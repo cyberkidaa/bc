@@ -1,0 +1,25 @@
+
+1 Write the following programs for Blockchain in Python:
+A] A simple client class that generates the private and public keys by using the builtin Python RSA algorithm and test it.
+B] A transaction class to send and receive money and test it.
+C] Create multiple transactions and display them.
+D] Create a blockchain, a genesis block and execute it.
+E] Create a mining function and test it.
+F] Add blocks to the miner and dump the blockchain.
+
+2 Install and configure Go Ethereum and the Mist browser. Develop and test a sample application.
+
+3 Implement and demonstrate the use of the following in Solidity:
+A] Variable, Operators, Loops, Decision Making, Strings, Arrays, Enums, Structs, Mappings, Conversions, Ether Units, Special Variables.
+B] Functions, Function Modifiers, View functions, Pure Functions, Fallback Function, Function Overloading, Mathematical functions, Cryptographic functions.
+
+4 Implement and demonstrate the use of the following in Solidity:
+A] Withdrawal Pattern, Restricted Access.
+B] Contracts, Inheritance, Constructors, Abstract Contracts, Interfaces.
+C] Libraries, Assembly, Events, Error handling.
+
+5 Install hyperledger fabric and composer. Deploy and execute the application.
+6 Write a program to demonstrate mining of Ether.
+7 Demonstrate the running of the blockchain node.
+8 Demonstrate the use of Bitcoin Core API.
+9 Create your own blockchain and demonstrate its use.
